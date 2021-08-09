@@ -1,1 +1,2 @@
 proc sort data=data;by class;run;
+proc data=satish;by ;run;
