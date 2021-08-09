@@ -1,1 +1,1 @@
-proc sort data=data;
+proc sort data=data;by class;run;
